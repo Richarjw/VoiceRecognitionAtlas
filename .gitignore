@@ -1,0 +1,7 @@
+**/logs
+**/input
+**/.vscode
+**/.ipynb_checkpoints
+**/predictions_1d_conv
+**/.DS_STORE
+
